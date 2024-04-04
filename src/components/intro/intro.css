@@ -119,5 +119,14 @@ position: absolute;
     .i-desc{
       display: none;
     }
+
+
+    #h1up{
+        font-size: 50px;
+    }
+
+    #h1down{
+        font-size: 50px;
+    }
     
   }

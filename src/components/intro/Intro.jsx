@@ -16,9 +16,9 @@ const Intro = () => {
           <div className="container">
               <div className="row">
                   <div className="col-12">
-          <h1 className="text-start">Eric Sadowski</h1>
+          <h1 id="h1up" className="text-start">Eric Sadowski</h1>
           <img src={Van} className="img-fluid" id="main-van" alt ="A picture of Eric in a Van"/>
-          <h1 className="text-end">Web Developer</h1>
+          <h1 id="h1down" className="text-end">Web Developer</h1>
           </div>
           </div>
         </div>

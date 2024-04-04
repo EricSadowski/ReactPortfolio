@@ -2,7 +2,7 @@ export const products = [
     {
       id: 1,
       img: "https://i.imgur.com/cBf4W9i.jpeg",
-      link: "https://react-api-project-dsbo.vercel.app/main",
+      link: "https://react-api-project-dsbo.vercel.app",
       gitLink: "https://github.com/EricSadowski/ReactApiProject",
       title: "Met Gallery Explorer",
       description: "A Group project made using the METs API to browse the items in the Gallery. Made with React and Typescript"

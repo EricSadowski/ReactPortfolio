@@ -10,10 +10,10 @@ const About = () => {
            <div className="a-right">
            <h1 className="a-title">About Me</h1>
         <p className="a-desc">
-        Eric Sadowski is a Web Developer and Multi-Media Artist from Montreal, 
-        Quebec. Born in Vancouver, British Columbia, he has been using computers 
+        Eric Sadowski is a Web Developer and Multi-Media Artist from Montréal, 
+        Québec. Born in Vancouver, British Columbia, he has been using computers 
         since he could talk and he can fondly remember the sound of dial up.
-         His skills include: HTML/CSS, Photoshop, Javascript, C#, React, Node.js, Java, PHP and MySQL. 
+         His skills include: HTML/CSS, Photoshop, Javascript, C#, ASP.NET, React, SpringBoot, Node.js, Java, PHP and MySQL. 
         </p>
            </div>
         </div>
