@@ -17,7 +17,7 @@ const Product = ({img,link,gitLink,title,description}) => {
             <img src={img} alt="" className="p-img"/>
         </a>
         </div>
-        <div>
+        <div className="words">
             <h3>{title}</h3>
             <p>{description}</p>
             <a href={gitLink}><img className="icon" src={giticon}></img></a><a href={link}><img className="icon" src={linkicon}></img></a>

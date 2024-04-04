@@ -56,11 +56,20 @@
     text-align: center;
     max-width: 500px;
     display: inline-block;
+    
+  }
+
+  p{
+    font-size: 1.2em;
   }
 
   .icon{
     width: 30px;
     margin: 10px;
+  }
+  
+  .words{
+    padding: 12px;
   }
 
   
