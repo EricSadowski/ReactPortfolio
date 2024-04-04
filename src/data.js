@@ -21,7 +21,7 @@ export const products = [
       link: "https://wackmole.vercel.app/",
       gitLink: "https://github.com/EricSadowski/wackmole",
       title: "Wackmole",
-      description: "A game made as a group project with Javascript. Try to collect the high score!"
+      description: "A desktop web game made as a group project with Javascript. Try to collect the high score!"
     },
     {
       id: 4,

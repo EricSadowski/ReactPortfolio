@@ -97,6 +97,7 @@
   margin-top: 1em;
   font-size: 1.7em;
   
+  
 }
 
 .contact-link a{
@@ -114,6 +115,10 @@ footer h2 {
   width: 70px;
   margin-left: 10px;
   margin-bottom: 20px;
+}
+
+.nav-link{
+  padding: .5em;
 }
 
   
