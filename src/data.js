@@ -25,11 +25,11 @@ export const products = [
     },
     {
       id: 4,
-      img: "https://i.imgur.com/JCMif9E.jpeg",
-      link: "https://meatclone.github.io/",
-      gitLink: "https://meatclone.github.io/",
-      title: "Meander's Dungeon",
-      description: "A responsive website made for a Goblin. Made before entering program at John Abbott"
+      img: "https://i.imgur.com/Tkp9ej7.png",
+      link: "https://record-5ezx.onrender.com/",
+      gitLink: "https://github.com/EricSadowski/record",
+      title: "Record Store",
+      description: "A Record Store management system made with Java SpringBoot and Thymeleaf, a mock server with full CRUD functions."
     },
     {
       id: 5,
